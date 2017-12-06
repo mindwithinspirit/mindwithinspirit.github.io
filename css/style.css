@@ -1,0 +1,66 @@
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Pacifico', cursive;
+*/
+html,body{
+  height: 300%;
+}
+  body {
+    font-family: 'Raleway', sans-serif;
+    margin:auto;
+    padding:auto;
+    background-color: AntiqueWhite;
+    max-width:2000px;
+    margin:0 auto;
+}
+
+    h1 {
+      color: DarkMagenta;
+    font-size: px 2000;
+    background:plum;
+    font-family:'Rouge Script', cursive;
+}
+  h2, h3 {
+    color:DarkMagenta;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    margin: 20;
+    padding: 20;
+
+  }
+    a {
+      color:red;
+      text-decoration: none;
+    }
+    body {
+      color: #444444; /* change default text colour */
+    }
+
+    blockquote {
+    border: 0px solid yellow;
+    clear:both;
+    padding: 10px 2000px
+    text-align: center;
+    }
+
+    header{
+      color: blue;
+    }
+
+    .profile-img {
+      .float: right;
+    }
+      nav a {
+      padding: 80px 60px;
+      }
+
+      .home{
+        background-image:
+        url('../images/007a.jpg');
+        background-repeat:repeat;
+        background-position: 100%;
+        background-size: cover;
+      }
